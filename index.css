@@ -39,7 +39,7 @@ body {
 }
 
 .equal {
-    background-image: linear-gradient(to right, #68B2EC, #0C4F9D);
+    background-image: linear-gradient(to right, #abc9e0, #4f97e9);
     color: #FAFAFA;
     width: 173px;
 }
@@ -54,7 +54,7 @@ body {
 }
 
 .output {
-    background-color: #195DA9;
+    background-color: #85a7ce;
     width: 373px;
     height: 150px;
     font-size: 70px;
